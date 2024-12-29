@@ -1,9 +1,7 @@
 import asyncio
 import aiohttp
 from bilibili_api import video, Credential, sync, HEADERS, user
-import httpx
 import os
-from tqdm import tqdm
 from ffmpy import FFmpeg
 import subprocess
 from dotenv import load_dotenv

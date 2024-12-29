@@ -1,1 +1,6 @@
 .env
+clips/
+temp/
+processed_bvids.txt
+*.m4s
+*.mp4
